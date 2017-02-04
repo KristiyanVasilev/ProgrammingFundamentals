@@ -7,103 +7,63 @@
     class HandsOfCards
     {
         static void Main()
-        {
-            var input = "";
-            var totalCards = new Dictionary<string, string>();
+        {            
+            var cardPowers = GetCardPower();
+            var cardTypes = GetCardType();
+            var cards = new Dictionary<string, HashSet<int>>();
+            var input = Console.ReadLine();
+
             while (input != "JOKER")
             {
-                input = Console.ReadLine();
-                var cardsRow = input
-                    .Split(new char[] { ':', ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
-                    .ToList();
-                for (int i = 1; i < cardsRow.Count; i++)
+                var tokens = input.Split(':');
+                var name = tokens[0];
+                var playerCards = tokens[1].Split(", ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var card in playerCards)
                 {
-                    var playerName = cardsRow[0];
-                    var currentCard = cardsRow[i];
-                    if (!totalCards.ContainsKey(playerName))
+                    var cardPower = card.Substring(0, card.Length - 1);
+                    var cardType = card.Substring(card.Length - 1);
+                    var sum = cardPowers[cardPower] * cardTypes[cardType];
+
+                    if (!cards.ContainsKey(name))
                     {
-                        totalCards[playerName] = currentCard;
-                        
+                        cards[name] = new HashSet<int>();
                     }
-                    else if (!totalCards[playerName].Contains(currentCard))
-                    {
-                        totalCards[playerName] += currentCard + " ";
-                    }
+                    cards[name].Add(sum);
                 }
+                input = Console.ReadLine();
             }
-            var cardRow = new List<string>();
-            foreach (var row in totalCards.Values)
+            
+            foreach (var pair in cards)
             {
-                cardRow.Add(row);
+                var name = pair.Key;
+                var cardsSum = pair.Value.Sum();
+                Console.WriteLine($"{name}: {cardsSum}");
             }
-
-
         }
-        public static int Sum(char num1, char num2)
+
+        public static Dictionary<string, int> GetCardType()
         {
-            int firstNumber = 0;
-            int secondNumber = 0;                    
-            switch (num1)
-            {
-                case '2':
-                    firstNumber = 2;
-                    break;
-                case '3':
-                    firstNumber = 3;
-                    break;
-                case '4':
-                    firstNumber = 4;
-                    break;
-                case '5':
-                    firstNumber = 5;
-                    break;
-                case '6':
-                    firstNumber = 6;
-                    break;
-                case '7':
-                    firstNumber = 7;
-                    break;
-                case '8':
-                    firstNumber = 8;
-                    break;
-                case '9':
-                    firstNumber = 9;
-                    break;
-                case '1':
-                    firstNumber = 10;
-                    break;
-                case 'J':
-                    firstNumber = 11;
-                    break;
-                case 'D':
-                    firstNumber = 12;
-                    break;
-                case 'K':
-                    firstNumber = 13;
-                    break;
-                case 'A':
-                    firstNumber = 14;
-                    break;
-            }
+            var cardType = new Dictionary<string, int>();
+            cardType["S"] = 4;
+            cardType["H"] = 3;
+            cardType["D"] = 2;
+            cardType["C"] = 1;
+            return cardType;
+        }
 
-            switch (num2)
+        public static Dictionary<string, int> GetCardPower()
+        {
+            var powers = new Dictionary<string, int>();
+            for (int i = 2; i <= 10; i++)
             {
-
-                case 'S':
-                    secondNumber = 4;
-                    break;
-                case 'H':
-                    secondNumber = 3;
-                    break;
-                case 'D':
-                    secondNumber = 2;
-                    break;
-                case 'C':
-                    secondNumber = 1;
-                    break;               
+                powers[i.ToString()] = i;
             }
-            int result = firstNumber * secondNumber;
-            return result;
+            powers["J"] = 11;
+            powers["Q"] = 12;
+            powers["K"] = 13;
+            powers["A"] = 14;
+            return powers;
         }
     }
 }

@@ -9,28 +9,23 @@
         static void Main()
         {
             var numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-            var bombAndRange = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
-            int bomb = bombAndRange[0];
-            int range = bombAndRange[1];
-            int sum = 0;
-            var survivourNums = new List<int>();
+            var tokens = Console.ReadLine().Split().Select(int.Parse).ToList();
+            int bomb = tokens[0];
+            int power = tokens[1];
 
             for (int i = 0; i < numbers.Count; i++)
             {
-                var currentNumber = numbers[i];
-                if (currentNumber == bomb)
+                if (numbers[i] == bomb)
                 {
-                    for (int s = 0; s < range - i; s++)
+                    for (int s = numbers[i]; s > power; s--)
                     {
-
+                        numbers.Remove(numbers[s - 1]);
                     }
+                    numbers.Remove(numbers[i]);
+                    
                 }
             }
-
-            foreach (var number in numbers)
-            {
-                Console.WriteLine(number);
-            }
+            Console.WriteLine(string.Join(" ",numbers));
         }
     }
 }

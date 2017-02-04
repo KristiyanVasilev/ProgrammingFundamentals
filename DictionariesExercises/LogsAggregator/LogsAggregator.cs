@@ -1,14 +1,14 @@
-﻿namespace LongestIncreasingSubsequence
+﻿namespace LogsAggregator
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
 
-    class LongestIncreasingSubsequence
+    class LogsAggregator
     {
         static void Main()
         {
-          
+
         }
     }
 }

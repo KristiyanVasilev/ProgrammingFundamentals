@@ -17,24 +17,19 @@
                 var ip = line[1];
                 var message = line[3];
                 var user = line[5];
-
-                if (!logs.ContainsKey(user))
-                {
-                    logs[user] = new Dictionary <string, int>();
-                }
-                if (!logs[user].ContainsKey(ip))
-                {
-                    logs[user][ip] = new Int32();
-                }
-                logs[user][ip] += 1;
-
+                var count = 0;
+                AddUser(logs, user);
+                AddIpAddres(logs, user, ip, count);
                 input = Console.ReadLine();
             }
+            PrintLogs(logs);
+        }
 
+        public static void PrintLogs(SortedDictionary<string, Dictionary<string, int>> logs)
+        {
             foreach (var person in logs)
             {
                 Console.WriteLine($"{person.Key}: ");
-
                 foreach (var item in person.Value)
                 {
                     var ipto = item.Key;
@@ -46,10 +41,27 @@
                     else
                     {
                         Console.WriteLine($"{ipto} => {count}.");
-                    }                 
+                    }
                 }
             }
+        }
 
+        public static void AddIpAddres(SortedDictionary<string, Dictionary<string, int>> logs, string user, string ip, int count)
+        {
+            if (!logs[user].ContainsKey(ip))
+            {
+                logs[user][ip] = 0;
+            }
+
+            logs[user][ip] += 1;
+        }
+
+        public static void AddUser(SortedDictionary<string, Dictionary<string, int>> logs, string user)
+        {
+            if (!logs.ContainsKey(user))
+            {
+                logs[user] = new Dictionary<string, int>();
+            }
         }
     }
 }

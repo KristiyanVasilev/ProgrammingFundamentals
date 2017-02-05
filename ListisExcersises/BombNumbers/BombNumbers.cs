@@ -17,15 +17,21 @@
             {
                 if (numbers[i] == bomb)
                 {
-                    for (int s = numbers[i]; s > power; s--)
-                    {
-                        numbers.Remove(numbers[s - 1]);
-                    }
-                    numbers.Remove(numbers[i]);
-                    
+                    int left = Math.Max(i - power, 0);
+
+                    int right = Math.Min(i + power, numbers.Count - 1);
+
+                    int lenght = right - left + 1;
+                    numbers.RemoveRange(left, lenght);
+                    i = 0;
                 }
             }
-            Console.WriteLine(string.Join(" ",numbers));
+            int sum = 0;
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                sum += numbers[i];
+            }
+            Console.WriteLine(sum);
         }
     }
 }

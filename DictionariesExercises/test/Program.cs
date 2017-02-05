@@ -1,12 +1,12 @@
-﻿namespace LegendaryFarming
+﻿namespace _09.Legendary_Farming
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
 
-    class LegendaryFarming
+    public class LegendaryFarming
     {
-        static void Main()
+        public static void Main(string[] args)
         {
             Dictionary<string, int> legendaryMats = new Dictionary<string, int>();
             legendaryMats["motes"] = 0;

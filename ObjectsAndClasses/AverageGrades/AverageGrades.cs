@@ -17,6 +17,10 @@
             {
                 var line = Console.ReadLine().Split().ToArray();
                 studentName = line[0];
+                if (students.ContainsKey(studentName))
+                {
+                    studentName += i;
+                }
 
                 for (int j = 1; j < line.Length; j++)
                 {
@@ -24,7 +28,7 @@
                     if (!students.ContainsKey(studentName))
                     {
                         students[studentName] = new List<double>();
-                    }
+                    }                   
                     students[studentName].Add(grade);
                 }
             }

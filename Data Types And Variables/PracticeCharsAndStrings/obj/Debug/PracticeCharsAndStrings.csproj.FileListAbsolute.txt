@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\test\bin\Debug\test.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\test\bin\Debug\test.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\test\bin\Debug\test.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\test\obj\Debug\test.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\test\obj\Debug\test.pdb

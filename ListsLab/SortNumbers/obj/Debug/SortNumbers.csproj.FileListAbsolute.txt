@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SortNumbers\bin\Debug\SortNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SortNumbers\bin\Debug\SortNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SortNumbers\bin\Debug\SortNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SortNumbers\obj\Debug\SortNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SortNumbers\obj\Debug\SortNumbers.pdb

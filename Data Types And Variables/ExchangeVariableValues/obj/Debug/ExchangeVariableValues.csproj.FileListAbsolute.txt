@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

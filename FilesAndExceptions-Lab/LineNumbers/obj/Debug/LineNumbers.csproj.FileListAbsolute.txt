@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\bin\Debug\LineNumbers.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\bin\Debug\LineNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\bin\Debug\LineNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\obj\Debug\LineNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\LineNumbers\obj\Debug\LineNumbers.pdb

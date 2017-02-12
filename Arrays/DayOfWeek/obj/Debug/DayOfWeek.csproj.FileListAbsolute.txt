@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+E:\SoftUni\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe
+E:\SoftUni\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.pdb
+E:\SoftUni\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.exe
+E:\SoftUni\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.pdb

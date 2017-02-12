@@ -1,0 +1,12 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\bin\Debug\AverageGrades.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\AverageGrades\obj\Debug\AverageGrades.csprojResolveAssemblyReference.cache

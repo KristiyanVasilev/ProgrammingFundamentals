@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\bin\Debug\MinerTask.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\bin\Debug\MinerTask.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\bin\Debug\MinerTask.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\obj\Debug\MinerTask.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\obj\Debug\MinerTask.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\MinerTask\obj\Debug\MinerTask.pdb

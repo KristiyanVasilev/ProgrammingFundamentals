@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.exe.config
+E:\SoftUni\Projects\DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.pdb
+E:\SoftUni\Projects\DataTypesAndVariablesLab\Greeting\obj\Debug\Greeting.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\Greeting\obj\Debug\Greeting.pdb

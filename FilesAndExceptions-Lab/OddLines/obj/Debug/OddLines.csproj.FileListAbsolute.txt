@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\bin\Debug\OddLines.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\bin\Debug\OddLines.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\bin\Debug\OddLines.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\obj\Debug\OddLines.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\OddLines\obj\Debug\OddLines.pdb

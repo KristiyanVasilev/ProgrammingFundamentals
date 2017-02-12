@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.exe
+E:\SoftUni\Projects\MethodsAndDebugging\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\NumbersInReverseOrder\obj\Debug\NumbersInReverseOrder.exe
+E:\SoftUni\Projects\MethodsAndDebugging\NumbersInReverseOrder\obj\Debug\NumbersInReverseOrder.pdb

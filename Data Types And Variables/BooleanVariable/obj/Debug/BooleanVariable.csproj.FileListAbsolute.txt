@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb

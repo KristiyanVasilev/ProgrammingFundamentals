@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SquareNumbers\bin\Debug\SquareNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SquareNumbers\bin\Debug\SquareNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SquareNumbers\obj\Debug\SquareNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\SquareNumbers\obj\Debug\SquareNumbers.pdb

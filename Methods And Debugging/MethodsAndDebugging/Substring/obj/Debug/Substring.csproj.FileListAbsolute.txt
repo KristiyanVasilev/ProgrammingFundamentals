@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\bin\Debug\Substring.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\bin\Debug\Substring.exe
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\bin\Debug\Substring.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\obj\Debug\Substring.exe
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\obj\Debug\Substring.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

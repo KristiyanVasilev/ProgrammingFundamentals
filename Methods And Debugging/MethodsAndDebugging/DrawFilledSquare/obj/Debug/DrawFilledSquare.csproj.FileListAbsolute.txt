@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\DrawFilledSquare\bin\Debug\DrawFilledSquare.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\DrawFilledSquare\bin\Debug\DrawFilledSquare.exe
+E:\SoftUni\Projects\MethodsAndDebugging\DrawFilledSquare\bin\Debug\DrawFilledSquare.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\DrawFilledSquare\obj\Debug\DrawFilledSquare.exe
+E:\SoftUni\Projects\MethodsAndDebugging\DrawFilledSquare\obj\Debug\DrawFilledSquare.pdb

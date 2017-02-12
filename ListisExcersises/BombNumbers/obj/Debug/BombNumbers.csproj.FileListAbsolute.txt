@@ -1,0 +1,12 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\bin\Debug\BombNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache

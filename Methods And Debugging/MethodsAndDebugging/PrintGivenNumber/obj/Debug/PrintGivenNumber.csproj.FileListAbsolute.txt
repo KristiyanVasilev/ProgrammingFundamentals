@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\bin\Debug\PrintGivenNumber.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\bin\Debug\PrintGivenNumber.exe
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\bin\Debug\PrintGivenNumber.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\obj\Debug\PrintGivenNumber.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\obj\Debug\PrintGivenNumber.exe
+E:\SoftUni\Projects\MethodsAndDebugging\PrintGivenNumber\obj\Debug\PrintGivenNumber.pdb

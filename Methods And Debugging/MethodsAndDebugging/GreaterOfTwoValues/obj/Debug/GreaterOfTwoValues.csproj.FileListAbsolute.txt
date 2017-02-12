@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+E:\SoftUni\Projects\MethodsAndDebugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+E:\SoftUni\Projects\MethodsAndDebugging\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

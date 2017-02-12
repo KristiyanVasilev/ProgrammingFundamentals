@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.pdb

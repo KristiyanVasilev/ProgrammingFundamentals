@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\MathPower\bin\Debug\MathPower.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\MathPower\bin\Debug\MathPower.exe
+E:\SoftUni\Projects\MethodsAndDebugging\MathPower\bin\Debug\MathPower.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\MathPower\obj\Debug\MathPower.exe
+E:\SoftUni\Projects\MethodsAndDebugging\MathPower\obj\Debug\MathPower.pdb

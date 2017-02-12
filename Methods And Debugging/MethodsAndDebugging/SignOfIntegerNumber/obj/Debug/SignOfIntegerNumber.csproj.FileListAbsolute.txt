@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe
+E:\SoftUni\Projects\MethodsAndDebugging\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.exe
+E:\SoftUni\Projects\MethodsAndDebugging\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.pdb

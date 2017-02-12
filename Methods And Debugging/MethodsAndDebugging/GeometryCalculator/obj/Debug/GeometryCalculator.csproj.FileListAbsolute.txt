@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+E:\SoftUni\Projects\MethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+E:\SoftUni\Projects\MethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

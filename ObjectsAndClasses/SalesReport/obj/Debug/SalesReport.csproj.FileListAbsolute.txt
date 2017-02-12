@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\obj\Debug\SalesReport.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\SalesReport\obj\Debug\SalesReport.pdb

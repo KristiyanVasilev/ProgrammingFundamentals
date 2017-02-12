@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\bin\Debug\DoublePolindromes.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\bin\Debug\DoublePolindromes.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\bin\Debug\DoublePolindromes.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\obj\Debug\DoublePolindromes.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\obj\Debug\DoublePolindromes.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\DoublePolindromes\obj\Debug\DoublePolindromes.pdb

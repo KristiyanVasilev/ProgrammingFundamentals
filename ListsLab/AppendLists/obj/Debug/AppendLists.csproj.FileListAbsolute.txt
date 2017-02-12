@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\bin\Debug\AppendLists.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\bin\Debug\AppendLists.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\bin\Debug\AppendLists.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\obj\Debug\AppendLists.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\AppendLists\obj\Debug\AppendLists.pdb

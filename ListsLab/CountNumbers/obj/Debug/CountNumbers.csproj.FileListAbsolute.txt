@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\CountNumbers\bin\Debug\CountNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\CountNumbers\bin\Debug\CountNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\CountNumbers\bin\Debug\CountNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\CountNumbers\obj\Debug\CountNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListsLab\CountNumbers\obj\Debug\CountNumbers.pdb

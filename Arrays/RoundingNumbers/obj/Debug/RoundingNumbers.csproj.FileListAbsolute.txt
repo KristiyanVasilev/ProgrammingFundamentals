@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+E:\SoftUni\Projects\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+E:\SoftUni\Projects\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+E:\SoftUni\Projects\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+E:\SoftUni\Projects\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

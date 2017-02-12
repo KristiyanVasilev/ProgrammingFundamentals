@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VariableInHexFormat\obj\Debug\VariableInHexFormat.csprojResolveAssemblyReference.cache

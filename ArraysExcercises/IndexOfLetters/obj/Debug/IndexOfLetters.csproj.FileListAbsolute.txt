@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

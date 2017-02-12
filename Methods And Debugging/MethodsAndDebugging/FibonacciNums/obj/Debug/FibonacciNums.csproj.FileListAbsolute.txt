@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\bin\Debug\FibonacciNums.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\bin\Debug\FibonacciNums.exe
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\bin\Debug\FibonacciNums.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\obj\Debug\FibonacciNums.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\obj\Debug\FibonacciNums.exe
+E:\SoftUni\Projects\MethodsAndDebugging\FibonacciNums\obj\Debug\FibonacciNums.pdb

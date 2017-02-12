@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\bin\Debug\UserLogs.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\bin\Debug\UserLogs.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\bin\Debug\UserLogs.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\obj\Debug\UserLogs.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\UserLogs\obj\Debug\UserLogs.pdb

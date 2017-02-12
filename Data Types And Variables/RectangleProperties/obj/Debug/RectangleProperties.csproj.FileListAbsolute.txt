@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\RectangleProperties\bin\Debug\RectangleProperties.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\RectangleProperties\bin\Debug\RectangleProperties.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\RectangleProperties\obj\Debug\RectangleProperties.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\RectangleProperties\obj\Debug\RectangleProperties.pdb

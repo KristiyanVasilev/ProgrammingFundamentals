@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\bin\Debug\FastPrimeChecker.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\obj\Debug\FastPrimeChecker.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\obj\Debug\FastPrimeChecker.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\FastPrimeChecker\obj\Debug\FastPrimeChecker.pdb

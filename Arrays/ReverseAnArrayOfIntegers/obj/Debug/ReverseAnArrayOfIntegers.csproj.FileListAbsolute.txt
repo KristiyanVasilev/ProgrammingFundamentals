@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\ReverseAnArrayOfIntegers.exe.config
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\ReverseAnArrayOfIntegers.exe
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\ReverseAnArrayOfIntegers.pdb
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\ReverseAnArrayOfIntegers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\ReverseAnArrayOfIntegers.exe
+E:\SoftUni\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\ReverseAnArrayOfIntegers.pdb

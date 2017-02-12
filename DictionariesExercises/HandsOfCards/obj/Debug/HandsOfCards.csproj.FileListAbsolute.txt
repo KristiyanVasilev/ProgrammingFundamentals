@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.pdb

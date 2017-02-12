@@ -1,0 +1,9 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\obj\Debug\SumReversedNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

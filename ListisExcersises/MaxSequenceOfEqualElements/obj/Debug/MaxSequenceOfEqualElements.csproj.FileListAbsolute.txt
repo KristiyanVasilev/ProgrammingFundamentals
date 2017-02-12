@@ -1,0 +1,9 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

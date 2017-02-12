@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\MethodsAndDebugging\TriangleArea\bin\Debug\TriangleArea.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\TriangleArea\bin\Debug\TriangleArea.exe
+E:\SoftUni\Projects\MethodsAndDebugging\TriangleArea\bin\Debug\TriangleArea.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\TriangleArea\obj\Debug\TriangleArea.exe
+E:\SoftUni\Projects\MethodsAndDebugging\TriangleArea\obj\Debug\TriangleArea.pdb

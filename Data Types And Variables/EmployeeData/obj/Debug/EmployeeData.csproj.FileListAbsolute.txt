@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\EmployeeData\bin\Debug\EmployeeData.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\EmployeeData\obj\Debug\EmployeeData.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\EmployeeData\obj\Debug\EmployeeData.pdb

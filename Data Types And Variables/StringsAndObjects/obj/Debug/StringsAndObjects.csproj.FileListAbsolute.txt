@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

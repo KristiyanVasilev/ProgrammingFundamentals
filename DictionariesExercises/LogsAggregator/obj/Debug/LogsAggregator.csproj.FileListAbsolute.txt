@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\bin\Debug\LogsAggregator.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\bin\Debug\LogsAggregator.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\obj\Debug\LogsAggregator.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\obj\Debug\LogsAggregator.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\LogsAggregator\obj\Debug\LogsAggregator.pdb

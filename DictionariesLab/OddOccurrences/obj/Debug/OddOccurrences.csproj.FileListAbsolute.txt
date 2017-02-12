@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\bin\Debug\OddOccurrences.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\bin\Debug\OddOccurrences.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\obj\Debug\OddOccurrences.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\obj\Debug\OddOccurrences.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\OddOccurrences\obj\Debug\OddOccurrences.pdb

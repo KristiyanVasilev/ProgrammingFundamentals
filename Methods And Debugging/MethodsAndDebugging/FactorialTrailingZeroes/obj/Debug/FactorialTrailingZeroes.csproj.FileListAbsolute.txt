@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.exe.config
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.exe
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.pdb
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.exe
+E:\SoftUni\Projects\MethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.pdb

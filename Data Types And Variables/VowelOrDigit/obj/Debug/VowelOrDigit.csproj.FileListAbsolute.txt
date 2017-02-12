@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

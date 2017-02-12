@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\Arrays\TripleSum\bin\Debug\TripleSum.exe.config
+E:\SoftUni\Projects\Arrays\TripleSum\bin\Debug\TripleSum.exe
+E:\SoftUni\Projects\Arrays\TripleSum\bin\Debug\TripleSum.pdb
+E:\SoftUni\Projects\Arrays\TripleSum\obj\Debug\TripleSum.exe
+E:\SoftUni\Projects\Arrays\TripleSum\obj\Debug\TripleSum.pdb

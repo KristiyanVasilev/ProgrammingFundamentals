@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\bin\Debug\ArrayManipulation.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\bin\Debug\ArrayManipulation.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\bin\Debug\ArrayManipulation.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\obj\Debug\ArrayManipulation.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\obj\Debug\ArrayManipulation.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\ArrayManipulation\obj\Debug\ArrayManipulation.pdb

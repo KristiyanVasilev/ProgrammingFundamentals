@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\WordCount\bin\Debug\WordCount.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\WordCount\bin\Debug\WordCount.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\WordCount\bin\Debug\WordCount.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\WordCount\obj\Debug\WordCount.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\WordCount\obj\Debug\WordCount.pdb

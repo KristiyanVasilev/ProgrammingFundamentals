@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\FolderSize\bin\Debug\FolderSize.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\FolderSize\bin\Debug\FolderSize.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\FolderSize\bin\Debug\FolderSize.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\FolderSize\obj\Debug\FolderSize.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\FolderSize\obj\Debug\FolderSize.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionariesExercises\Phonebook\bin\Debug\Phonebook.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\bin\Debug\Phonebook.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\bin\Debug\Phonebook.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\bin\Debug\Phonebook.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\obj\Debug\Phonebook.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\Phonebook\obj\Debug\Phonebook.pdb

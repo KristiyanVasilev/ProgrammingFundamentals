@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\bin\Debug\FoldAndSum.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\bin\Debug\FoldAndSum.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\obj\Debug\FoldAndSum.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\FoldAndSum\obj\Debug\FoldAndSum.pdb

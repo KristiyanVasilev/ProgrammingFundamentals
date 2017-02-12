@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ArraysExcercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

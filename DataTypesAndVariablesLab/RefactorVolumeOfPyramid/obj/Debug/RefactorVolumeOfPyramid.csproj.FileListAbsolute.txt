@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb

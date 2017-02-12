@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb

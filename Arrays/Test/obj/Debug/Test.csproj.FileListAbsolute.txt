@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\Arrays\Test\bin\Debug\Test.exe.config
+E:\SoftUni\Projects\Arrays\Test\bin\Debug\Test.exe
+E:\SoftUni\Projects\Arrays\Test\bin\Debug\Test.pdb
+E:\SoftUni\Projects\Arrays\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\Arrays\Test\obj\Debug\Test.exe
+E:\SoftUni\Projects\Arrays\Test\obj\Debug\Test.pdb

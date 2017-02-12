@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\MergeFiles\bin\Debug\MergeFiles.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\MergeFiles\bin\Debug\MergeFiles.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\MergeFiles\bin\Debug\MergeFiles.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\MergeFiles\obj\Debug\MergeFiles.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\FilesAndExceptions-Lab\MergeFiles\obj\Debug\MergeFiles.pdb

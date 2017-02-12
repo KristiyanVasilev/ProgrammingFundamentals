@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

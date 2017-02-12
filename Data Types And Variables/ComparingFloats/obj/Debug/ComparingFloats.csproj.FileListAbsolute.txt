@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ComparingFloats\bin\Debug\ComparingFloats.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ComparingFloats\obj\Debug\ComparingFloats.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\ComparingFloats\obj\Debug\ComparingFloats.pdb

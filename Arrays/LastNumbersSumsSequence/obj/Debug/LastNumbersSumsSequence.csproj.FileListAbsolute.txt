@@ -1,0 +1,6 @@
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\bin\Debug\LastNumbersSumsSequence.exe.config
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\bin\Debug\LastNumbersSumsSequence.exe
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\bin\Debug\LastNumbersSumsSequence.pdb
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\obj\Debug\LastNumbersSumsSequence.csprojResolveAssemblyReference.cache
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\obj\Debug\LastNumbersSumsSequence.exe
+E:\SoftUni\Projects\Arrays\LastNumbersSumsSequence\obj\Debug\LastNumbersSumsSequence.pdb

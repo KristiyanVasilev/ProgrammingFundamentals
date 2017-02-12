@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\CountWorkingDays\obj\Debug\CountWorkingDays.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\CountWorkingDays\obj\Debug\CountWorkingDays.pdb

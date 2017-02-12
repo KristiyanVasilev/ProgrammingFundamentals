@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache

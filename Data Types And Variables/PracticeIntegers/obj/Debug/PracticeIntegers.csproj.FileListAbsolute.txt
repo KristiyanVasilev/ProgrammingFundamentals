@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\bin\Debug\PracticeIntegers.exe.config
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\bin\Debug\PracticeIntegers.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\bin\Debug\PracticeIntegers.pdb
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\obj\Debug\PracticeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\obj\Debug\PracticeIntegers.exe
+C:\Users\User\Documents\Maketo\DataTypesAndVariables\PracticeIntegers\obj\Debug\PracticeIntegers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\bin\Debug\PracticeIntegers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\obj\Debug\PracticeIntegers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\obj\Debug\PracticeIntegers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\bin\Debug\PracticeIntegers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\bin\Debug\PracticeIntegers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PracticeIntegers\obj\Debug\PracticeIntegers.csprojResolveAssemblyReference.cache

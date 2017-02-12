@@ -1,0 +1,8 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\ListisExcersises\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ListisExcersises\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

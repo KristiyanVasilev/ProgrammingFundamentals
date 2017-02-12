@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

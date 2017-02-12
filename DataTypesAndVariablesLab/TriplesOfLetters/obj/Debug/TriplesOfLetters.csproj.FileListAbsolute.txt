@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\DataTypesAndVariablesLab\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+E:\SoftUni\Projects\DataTypesAndVariablesLab\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+E:\SoftUni\Projects\DataTypesAndVariablesLab\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\bin\Debug\DragonArmy.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\bin\Debug\DragonArmy.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\bin\Debug\DragonArmy.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\obj\Debug\DragonArmy.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\DragonArmy\obj\Debug\DragonArmy.pdb

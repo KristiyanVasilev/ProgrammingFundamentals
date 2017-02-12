@@ -1,0 +1,5 @@
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+E:\SoftUni\Projects\DataTypesAndVariablesLab\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

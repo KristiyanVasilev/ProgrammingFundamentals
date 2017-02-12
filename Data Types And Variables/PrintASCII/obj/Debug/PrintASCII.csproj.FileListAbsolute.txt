@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PrintASCII\bin\Debug\PrintASCII.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PrintASCII\bin\Debug\PrintASCII.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PrintASCII\bin\Debug\PrintASCII.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PrintASCII\obj\Debug\PrintASCII.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\PrintASCII\obj\Debug\PrintASCII.pdb

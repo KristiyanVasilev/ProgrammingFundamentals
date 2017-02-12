@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\DictionaryLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.pdb

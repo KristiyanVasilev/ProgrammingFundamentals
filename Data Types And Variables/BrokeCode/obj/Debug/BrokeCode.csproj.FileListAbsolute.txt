@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\bin\Debug\BrokeCode.exe.config
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\bin\Debug\BrokeCode.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\bin\Debug\BrokeCode.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\obj\Debug\BrokeCode.exe
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\obj\Debug\BrokeCode.pdb
+E:\SoftUni\Tech Module\Programming Fundamentals\Data Types And Variables\BrokeCode\obj\Debug\BrokeCode.csprojResolveAssemblyReference.cache

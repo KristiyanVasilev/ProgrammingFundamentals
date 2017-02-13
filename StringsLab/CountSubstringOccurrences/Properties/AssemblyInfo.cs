@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MentorGroup")]
+[assembly: AssemblyTitle("CountSubstringOccurrences")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MentorGroup")]
+[assembly: AssemblyProduct("CountSubstringOccurrences")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8211ad54-f3de-4f06-bf50-d4e062b0810d")]
+[assembly: Guid("f4aa6972-9809-4fa6-ad18-5d22867d6ae8")]
 
 // Version information for an assembly consists of the following four values:
 //

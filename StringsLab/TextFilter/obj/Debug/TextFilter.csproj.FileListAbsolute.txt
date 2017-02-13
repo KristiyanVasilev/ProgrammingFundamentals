@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\TextFilter\bin\Debug\TextFilter.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\TextFilter\bin\Debug\TextFilter.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\TextFilter\bin\Debug\TextFilter.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\TextFilter\obj\Debug\TextFilter.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\TextFilter\obj\Debug\TextFilter.pdb

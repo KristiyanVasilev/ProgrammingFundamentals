@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringsLab\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb

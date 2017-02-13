@@ -1,1 +1,5 @@
 E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\MentorGroup\obj\Debug\MentorGroup.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\ObjectsAndClasses\MentorGroup\obj\Debug\MentorGroup.pdb

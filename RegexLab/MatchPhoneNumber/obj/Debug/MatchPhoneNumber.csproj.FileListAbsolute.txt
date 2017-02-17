@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

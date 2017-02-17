@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\bin\Debug\PlayingWithRegEx.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\bin\Debug\PlayingWithRegEx.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\bin\Debug\PlayingWithRegEx.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\obj\Debug\PlayingWithRegEx.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\obj\Debug\PlayingWithRegEx.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\PlayingWithRegEx\obj\Debug\PlayingWithRegEx.pdb

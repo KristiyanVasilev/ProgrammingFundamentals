@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

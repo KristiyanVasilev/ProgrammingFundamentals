@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\bin\Debug\ReplaceTag.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\bin\Debug\ReplaceTag.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\bin\Debug\ReplaceTag.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\obj\Debug\ReplaceTag.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\obj\Debug\ReplaceTag.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexLab\ReplaceTag\obj\Debug\ReplaceTag.pdb

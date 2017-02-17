@@ -1,0 +1,1 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\bin\Debug\ValidUsername.exe.config

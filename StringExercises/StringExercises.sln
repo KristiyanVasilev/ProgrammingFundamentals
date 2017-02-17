@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToBaseN", "ConvertToBaseN\ConvertToBaseN.csproj", "{02B74C08-36B6-4DC5-8588-D4D262A74094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFromBaseN", "ConvertFromBaseN\ConvertFromBaseN.csproj", "{A398DCA3-3DC5-403B-869C-7BE7BB339480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{03260830-5451-4888-A44C-ED0C40D2A178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B74C08-36B6-4DC5-8588-D4D262A74094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B74C08-36B6-4DC5-8588-D4D262A74094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B74C08-36B6-4DC5-8588-D4D262A74094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B74C08-36B6-4DC5-8588-D4D262A74094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A398DCA3-3DC5-403B-869C-7BE7BB339480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A398DCA3-3DC5-403B-869C-7BE7BB339480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A398DCA3-3DC5-403B-869C-7BE7BB339480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A398DCA3-3DC5-403B-869C-7BE7BB339480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03260830-5451-4888-A44C-ED0C40D2A178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03260830-5451-4888-A44C-ED0C40D2A178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03260830-5451-4888-A44C-ED0C40D2A178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03260830-5451-4888-A44C-ED0C40D2A178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

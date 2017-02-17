@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithRegEx", "PlayingWithRegEx\PlayingWithRegEx.csproj", "{80447AC7-E6D4-4D0B-81CB-A7538E093141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{67C4D532-5220-4EAB-A7CF-45A414C7820B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceTag", "ReplaceTag\ReplaceTag.csproj", "{6BD103F4-2B0C-47EB-9BFD-8D06C1A7EFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80447AC7-E6D4-4D0B-81CB-A7538E093141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80447AC7-E6D4-4D0B-81CB-A7538E093141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80447AC7-E6D4-4D0B-81CB-A7538E093141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80447AC7-E6D4-4D0B-81CB-A7538E093141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C4D532-5220-4EAB-A7CF-45A414C7820B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C4D532-5220-4EAB-A7CF-45A414C7820B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C4D532-5220-4EAB-A7CF-45A414C7820B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C4D532-5220-4EAB-A7CF-45A414C7820B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD103F4-2B0C-47EB-9BFD-8D06C1A7EFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD103F4-2B0C-47EB-9BFD-8D06C1A7EFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD103F4-2B0C-47EB-9BFD-8D06C1A7EFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD103F4-2B0C-47EB-9BFD-8D06C1A7EFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

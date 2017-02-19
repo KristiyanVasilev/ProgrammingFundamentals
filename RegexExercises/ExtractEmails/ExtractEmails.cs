@@ -7,9 +7,9 @@
     using System.Threading.Tasks;
     using System.Text.RegularExpressions;
 
-    class ExtractEmails
+    public class ExtractEmails
     {
-        static void Main()
+        public static void Main()
         {
             var text = Console.ReadLine();
             var pattern = @"[a-z]+(\.|_|-|\w)*@\w*(\.|_|-)?\w*\.?\w+\.\w+";

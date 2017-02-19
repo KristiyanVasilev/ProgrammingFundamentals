@@ -1,1 +1,6 @@
 E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\bin\Debug\ValidUsername.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\bin\Debug\ValidUsername.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\bin\Debug\ValidUsername.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\obj\Debug\ValidUsername.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\obj\Debug\ValidUsername.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\RegexExercises\ValidUsername\obj\Debug\ValidUsername.pdb

@@ -7,9 +7,9 @@
     using System.Threading.Tasks;
     using System.Text;
 
-    class ExtractSentencesByKeyword
+    public class ExtractSentencesByKeyword
     {
-        static void Main()
+        public static void Main()
         {
             var word = Console.ReadLine();
             var text = Console.ReadLine().Split(new char[] { '.', '!', '?' });

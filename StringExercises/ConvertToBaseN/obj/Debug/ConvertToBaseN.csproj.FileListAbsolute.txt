@@ -1,1 +1,6 @@
 E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\bin\Debug\ConvertToBaseN.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\bin\Debug\ConvertToBaseN.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\bin\Debug\ConvertToBaseN.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\obj\Debug\ConvertToBaseN.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\obj\Debug\ConvertToBaseN.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\ConvertToBaseN\obj\Debug\ConvertToBaseN.pdb

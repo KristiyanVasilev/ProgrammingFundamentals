@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\bin\Debug\MelrahShake.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\bin\Debug\MelrahShake.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\bin\Debug\MelrahShake.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\obj\Debug\MelrahShake.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\obj\Debug\MelrahShake.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MelrahShake\obj\Debug\MelrahShake.pdb

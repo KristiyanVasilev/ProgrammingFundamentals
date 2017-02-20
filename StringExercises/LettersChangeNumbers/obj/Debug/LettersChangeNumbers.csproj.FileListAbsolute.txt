@@ -1,0 +1,6 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb

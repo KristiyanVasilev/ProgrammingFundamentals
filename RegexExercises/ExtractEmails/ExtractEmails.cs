@@ -12,13 +12,14 @@
         public static void Main()
         {
             var text = Console.ReadLine();
-            var pattern = @"[a-z]+(\.|_|-|\w)*@\w*(\.|_|-)?\w*\.?\w+\.\w+";
+            var pattern = @"\b(?<!\.|\-|_)([a-zA-Z][\w-.]+\@[a-zA-Z-]+)(\.[a-zA-Z-]+)+\b";
             var regex = new Regex(pattern);
             var matches = regex.Matches(text);
 
             foreach (Match match in matches)
             {
-                Console.WriteLine(match);
+                var mail = match.ToString();
+                Console.WriteLine(mail);
             }          
         }
     }

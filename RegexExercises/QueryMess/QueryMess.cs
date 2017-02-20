@@ -13,7 +13,7 @@
             var input = Console.ReadLine();
             var pattern = @"\b[A-Za-z]+=.*[A-Za-z0-9]+\b";
             var regex = new Regex(pattern);            
-            var pair = new Dictionary<string, List<string>>();        
+            var pair = new Dictionary<string, List<string>>();     
 
             while (input != "END")
             {    
@@ -25,8 +25,8 @@
                     {
                         var removeJunk = Regex.Replace(item, @"((%20|\+)+)", " ");
                         var splittedMatch = removeJunk.ToString().Split('=');                        
-                        var key = splittedMatch[0];
-                        var value = splittedMatch[1];
+                        var key = splittedMatch[0].Trim();
+                        var value = splittedMatch[1].Trim();
                         
                         if (!pair.ContainsKey(key))
                         {
@@ -34,8 +34,7 @@
                         }
                         pair[key].Add(value);
                     }
-                }                    
-               
+                }                                   
                 foreach (var kvp in pair)
                 {
                     var printKey = kvp.Key;

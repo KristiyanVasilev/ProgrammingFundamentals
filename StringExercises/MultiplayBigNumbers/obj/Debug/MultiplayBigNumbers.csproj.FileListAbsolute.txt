@@ -1,0 +1,5 @@
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MultiplayBigNumbers\obj\Debug\MultiplayBigNumbers.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\StringExercises\MultiplayBigNumbers\obj\Debug\MultiplayBigNumbers.pdb

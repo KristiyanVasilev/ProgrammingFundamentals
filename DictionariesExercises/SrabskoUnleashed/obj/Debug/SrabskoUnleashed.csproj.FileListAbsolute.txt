@@ -1,1 +1,6 @@
 E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe.config
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.pdb
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.csprojResolveAssemblyReference.cache
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.exe
+E:\SoftUni\Tech Module\ProgrammingFundamentals\DictionariesExercises\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.pdb

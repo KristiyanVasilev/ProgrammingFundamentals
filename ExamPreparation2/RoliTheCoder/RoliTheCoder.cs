@@ -10,68 +10,70 @@
     {
         public static void Main()
         {
-            var input = Console.ReadLine();
-            var eventList = new SortedDictionary<string, SortedDictionary<string, HashSet<string>>>();
+            var line = Console.ReadLine();
+            var events = new Dictionary<int, Event>();
             var pattern = @"(?<id>\d+)\s+#(?<eventName>[\w\d]+)(\s+(?:@\w+\s*)+)?";
             var regex = new Regex(pattern);
 
-            while (input != "Time for Code")
+            while (line != "Time for Code")
             {
-                if (regex.IsMatch(input))
+                var eventDetails = Regex.Match(line, pattern);
+                if (eventDetails.Success)
                 {
-                    var line = input.Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries).ToList();
-                    var ID = line[0];
-                    var eventName = line[1];
-                    var participants = new HashSet<string>();
-                    for (int i = 2; i < line.Count; i++)
+                    var ID = int.Parse(eventDetails.Groups["id"].Value);
+                    var eventName = eventDetails.Groups["eventName"].Value;
+                    var participants = new string[0];
+                    var eventHasParticipants = line.Contains("@");
+                    if (eventHasParticipants)
                     {
-                        var currentParticipant = line[i];
-                        if (currentParticipant.StartsWith("@"))
-                        {
-                            participants.Add(currentParticipant);
-                        }                        
+                        participants = line
+                            .Substring(line.IndexOf('@'))
+                            .Split()
+                            .Where(a => a != string.Empty)
+                            .ToArray();
                     }
-                    if (!eventList.ContainsKey(ID))
+                    if (!events.ContainsKey(ID))
                     {
-                        eventList[ID] = new SortedDictionary<string, HashSet<string>>();
-                                            }
-                    else
+                        events[ID] = new Event()
+                        {
+                            Name = eventName,
+                            Participants = new List<string>(new string[0])
+                        };
+                    }
+                    if (events[ID].Name == eventName)
                     {
-                        if (!eventList[ID].ContainsKey(eventName))
-                        {
-                            input = Console.ReadLine();
-                            continue;
-                        }
-                        else
-                        {
-                            eventList[ID][eventName] = participants;
-                        }
-                    }  
-
-                    input = Console.ReadLine();
+                        events[ID].Participants.AddRange(participants);
+                        events[ID].Participants = events[ID].Participants.Distinct().ToList();
+                    }
                 }
-                else
-                {
-                    input = Console.ReadLine();
-                }
+                line = Console.ReadLine();
             }
+            var sortedEvents = events.OrderByDescending(a => a.Value.Participants.Count)
+                .ThenBy(a => a.Value.Name)
+                .ToArray();
 
-            foreach (var ID in eventList
-                     .Values
-                     .OrderByDescending(x => x.Values.Sum(y => y.Count)))
+            foreach (var @event in sortedEvents)
             {
-                foreach (var eventName in ID)
+                var eventName = @event.Value.Name;
+                var participantCount = @event.Value.Participants.Count();
+                Console.WriteLine($"{eventName} - {participantCount}");
+
+                var sortedParticipant = @event.Value.Participants.OrderBy(a => a);
+                foreach (var participant in sortedParticipant)
                 {
-                    var eventToPrint = eventName.Key.Remove(0, 1);
-                    var countToPrint = eventName.Value.Count;
-                    Console.WriteLine(eventToPrint + " - " + countToPrint);
-                    foreach (var participant in eventName.Value.OrderBy(p => p))
-                    {
-                        Console.WriteLine(participant);
-                    }
+                    Console.WriteLine(participant);
                 }
+                
             }
         }
     }
+    public class Event
+    { 
+        public string Name { get; set; }
+        public List<string> Participants { get; set; }
+    }
 }
+
+
+
 

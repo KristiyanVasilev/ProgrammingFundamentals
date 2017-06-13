@@ -1,24 +1,20 @@
-﻿namespace UseYourChainsBuddy
+namespace UseYourChainsBuddy
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Text;
     using System.Text.RegularExpressions;
-    using System.Threading.Tasks;
 
-    class UseYourChainsBuddy
+    public class UseYourChainsBuddy
     {
-        static void Main()
+        public static void Main()
         {
             var input = Console.ReadLine();
-            var pattern = @"<p>(.+?)<\/p>";
+            var pattern = @"<p>.+?<\/p>";
             var regex = new Regex(pattern);
             var text = string.Empty;
             var matches = regex.Matches(input);
             foreach (Match item in matches)
             {
-                //var clearedItem = item.Groups[1].Value.ToString();
                 var clearedItem = Regex.Replace(item.ToString(), "<p>", string.Empty);
                 clearedItem = Regex.Replace(clearedItem, "</p>", string.Empty);
                 clearedItem = Regex.Replace(clearedItem, @"[^a-z\d]", " ");
@@ -31,7 +27,7 @@
 
         public static string DecriptItem(string clearedItem)
         {
-            var sb = new StringBuilder(clearedItem);
+            var sb = new StringBuilder();
             foreach (var letter in clearedItem)
             {
                 if (letter >= 'a' && letter <= 'm')
